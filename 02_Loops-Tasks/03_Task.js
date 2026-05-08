@@ -1,4 +1,4 @@
-// let num= 5;
+let num= 5;
 for( let i=1; i<11; i++){
-    console.log('5*i');
+    console.log(`${num} x ${i} = ${num*i}`);
 }
