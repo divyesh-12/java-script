@@ -5,4 +5,4 @@ const user = {
 };
 user.email = "divyesh123@outlook.com";
 delete user.city;
-console.log(user)
+console.log(`Name : ${user.name}\nAge : ${user.age}\nEmail : ${user.email}`)
